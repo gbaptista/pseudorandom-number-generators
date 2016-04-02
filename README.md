@@ -1,5 +1,8 @@
 # Pseudorandom Number Generators
 
+* [Ruby](#ruby)
+* [JavaScript](#javascript)
+
 ## Ruby
 
 Run tests:
