@@ -25,7 +25,7 @@ rake test
 @lcg.generate #=> 0
 ```
 
-## Javascript
+## JavaScript
 
 Run tests:
 ```
